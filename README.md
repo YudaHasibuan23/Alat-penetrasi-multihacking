@@ -183,66 +183,46 @@
 ![](https://github.com/Z4nzu/hackingtool/blob/master/images/A2.png)
 ![](https://github.com/Z4nzu/hackingtool/blob/master/images/A4.png)
 
-## Installation For Linux <img src="https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="25" height="25"/></p><p align="center">
+## Pemasangan Untuk Linux <img src="https://konpa.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="25" height="25 "/></p><p align="center">
 
 
-### !! RUN HACKINGTOOL AS ROOT !! 
+## !! RUN HACKINGTOOL AS ROOT !! 
 
 
-## Steps are given below : 
-
-
-## Step : 1 Download hackingtool
+## Langkah: 1 Unduh alat peretasan
 
     git clone https://github.com/Z4nzu/hackingtool.git
 
-## Step : 2 Give Permission to hackingtool
+## Langkah: 2 Berikan Izin ke alat peretasan
     
-    chmod -R 755 hackingtool  
+    chmod -R 755 alat peretasan
 
-## Step : 3 Move to hackingtool directory
+## Langkah : 3 Pindah ke direktori hackingtool
 
     cd hackingtool
 
-## Step : 4 Run hackingtool
+## Langkah: 4 Jalankan alat peretasan
     
     sudo bash install.sh
 
-## Step : 5 For installing tools in directory
+## Langkah : 5 Untuk menginstal alat di direktori
 
     sudo hackingtool
 
 
-## Use image with Docker
+## Gunakan gambar dengan Docker
 
-### Run in one click
+### Jalankan dalam satu klik
 `docker run -it vgpastor/hackingtool`
 
-### Build locally
+### Bangun secara lokal
 `docker-compose build`
 
 `docker-compose run hackingtool`
 
-- If need open other ports you can edit the docker-compose.yml file
-- Volumes are mounted in the container to persist data and can share files between the host and the container
+- Jika perlu membuka port lain, Anda dapat mengedit file docker-compose.yml
+- Volume dipasang di wadah untuk menyimpan data dan dapat berbagi file antara host dan wadah
 
 
-#### Thanks to original Author of the tools used in hackingtool
-
-<img src ="https://img.shields.io/badge/Important-notice-red" />
-<h4>Please Don't Use for illegal Activity</h4>
-
-### To do 
-- [ ] Release Tool 
-- [ ] Add Tools for CTF
-- [ ] Want to do automatic 
-
-## Social Media :mailbox_with_no_mail:
-[![Twitter](https://img.shields.io/twitter/url?color=%231DA1F2&label=follow&logo=twitter&logoColor=%231DA1F2&style=flat-square&url=https%3A%2F%2Fwww.reddit.com%2Fuser%2FFatChicken277)](https://twitter.com/_Zinzu07)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/Z4nzu/)](https://github.com/Z4nzu/)
-##### Your Favourite Tool is not in hackingtool or Suggestions Please [CLICK HERE](https://forms.gle/b235JoCKyUq5iM3t8)
-![Z4nzu's github stats](https://github-readme-stats.vercel.app/api?username=Z4nzu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-
-#### Don't Forgot to share with Your Friends 
-### The new Update get will soon stay updated
-#### Thank you..!!
+< akan segera diperbarui
+#### Terima kasih..!!
